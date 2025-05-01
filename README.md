@@ -1,6 +1,6 @@
 # AgentK8s – EKS Operational Review Tool
 
-AgentK8s is a Streamlit-based EKS (Elastic Kubernetes Service) Operational Review Agent built using the [AgentPro](https://github.com/traversaal/AgentPro) framework. It conducts intelligent reviews of your EKS clusters and generates a categorized prescriptive action plan.
+AgentK8s is a Streamlit-based EKS (Elastic Kubernetes Service) Operational Review Agent built using the [AgentPro](https://github.com/traversaal-ai/AgentPro) framework. It conducts intelligent reviews of your EKS clusters and generates a categorized prescriptive action plan.
 
 ## 🚀 Features
 
